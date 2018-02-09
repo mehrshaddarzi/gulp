@@ -70,3 +70,8 @@ plugins list :
 gulp-preprocess //https://www.npmjs.com/package/gulp-preprocess حالت ضمیمه و چند تیکه کردن فایل اچ تی ام ال
 gulp-htmlclean  //https://www.npmjs.com/package/gulp-htmlclean برای فشرده سازی فایل های html
 gulp-size //https://www.npmjs.com/package/gulp-size  برای نمایش میزان حجم فشرده شدن اچ تی ام ال
+
+
+===> gulp sass & gulp font
+gulp-sass //https://www.npmjs.com/package/gulp-sass برای رندر کردن فایل های sass
+gulp-imacss //تبدیل عکس به بیس 64 و قرار دادن در یک فایل sass
