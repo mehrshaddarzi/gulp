@@ -69,4 +69,4 @@ echo %NODE_ENV%
 plugins list :
 gulp-preprocess //https://www.npmjs.com/package/gulp-preprocess حالت ضمیمه و چند تیکه کردن فایل اچ تی ام ال
 gulp-htmlclean  //https://www.npmjs.com/package/gulp-htmlclean برای فشرده سازی فایل های html
-
+gulp-size //https://www.npmjs.com/package/gulp-size  برای نمایش میزان حجم فشرده شدن اچ تی ام ال
